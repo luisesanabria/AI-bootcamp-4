@@ -101,6 +101,21 @@ capabilities = {
         "industry_verticals": ["Technology", "Financial Services", "Healthcare"],
         "capacity": 20,
         "consultants": ["charlotte.young@slalom.com", "henry.king@slalom.com"]
+    },
+    "Slalom Build": {
+        "description": "End-to-end product development combining strategy, design thinking, agile delivery, and full-stack engineering to create digital products and experiences",
+        "practice_area": "Technology",
+        "skill_levels": ["Emerging", "Proficient", "Advanced", "Expert"],
+        "certifications": [
+            "Certified Product Manager (CPM)",
+            "SAFe Product Owner/Product Manager",
+            "AWS Certified Developer",
+            "Google Associate Android Developer",
+            "Certified Scrum Product Owner (CSPO)"
+        ],
+        "industry_verticals": ["Consumer Products", "Fintech", "Healthtech", "Retail", "Technology"],
+        "capacity": 40,
+        "consultants": ["marcus.thompson@slalom.com", "priya.patel@slalom.com"]
     }
 }
 
